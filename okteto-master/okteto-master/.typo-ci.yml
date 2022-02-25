@@ -1,0 +1,17 @@
+dictionaries:
+  - en
+
+excluded_words:
+  - Infof
+  - Debugf
+  - Warnf
+  - Errorf
+  - Fatalf
+  - apimachinery
+  - unmarshal
+  - UnmarshalYAML
+  - Unmarshaler
+  - stignore
+  - solaris
+
+spellcheck_filenames: true
